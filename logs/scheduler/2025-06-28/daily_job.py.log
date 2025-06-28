@@ -1,0 +1,105 @@
+[2025-06-28T23:21:01.796+0000] {processor.py:161} INFO - Started process (PID=167) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:01.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:21:01.803+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:01.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:04.418+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:04.813+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:04.813+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:21:04.834+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:04.834+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:21:04.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 3.099 seconds
+[2025-06-28T23:21:35.559+0000] {processor.py:161} INFO - Started process (PID=180) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:35.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:21:35.570+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:35.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:36.267+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:21:36.775+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:36.774+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:21:36.818+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:21:36.818+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:21:36.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 1.291 seconds
+[2025-06-28T23:22:07.018+0000] {processor.py:161} INFO - Started process (PID=193) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:07.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:22:07.028+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:07.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:09.167+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:09.220+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:09.220+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:22:09.243+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:09.242+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:22:09.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 2.254 seconds
+[2025-06-28T23:22:39.849+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:39.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:22:39.859+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:39.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:40.481+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:22:40.515+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:40.512+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:22:40.530+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:22:40.530+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:22:40.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.704 seconds
+[2025-06-28T23:23:11.429+0000] {processor.py:161} INFO - Started process (PID=218) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:11.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:23:11.446+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:11.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:12.062+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:12.090+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:12.090+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:23:12.101+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:12.101+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:23:12.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.724 seconds
+[2025-06-28T23:23:42.675+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:42.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:23:42.680+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:42.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:43.226+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:23:43.253+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:43.252+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:23:43.270+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:23:43.270+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:23:43.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.622 seconds
+[2025-06-28T23:24:13.510+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:13.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:24:13.519+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:13.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:14.250+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:14.287+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:14.285+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:24:14.303+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:14.302+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:24:14.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.822 seconds
+[2025-06-28T23:24:44.973+0000] {processor.py:161} INFO - Started process (PID=251) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:44.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:24:44.983+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:44.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:45.456+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:24:45.672+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:45.672+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:24:45.689+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:24:45.689+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:24:45.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.753 seconds
+[2025-06-28T23:25:16.742+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:25:16.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:25:16.748+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:25:16.747+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:25:17.394+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:25:17.433+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:25:17.433+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:25:17.455+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:25:17.455+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:25:17.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.741 seconds
+[2025-06-28T23:27:11.305+0000] {processor.py:161} INFO - Started process (PID=166) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:11.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:27:11.314+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:11.314+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:12.908+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:13.321+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:13.321+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:27:13.346+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:13.346+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:27:13.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 2.075 seconds
+[2025-06-28T23:27:43.861+0000] {processor.py:161} INFO - Started process (PID=183) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:43.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:27:43.866+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:43.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:44.294+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:27:45.076+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:45.075+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:27:45.099+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:27:45.099+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:27:45.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 1.309 seconds
+[2025-06-28T23:28:15.580+0000] {processor.py:161} INFO - Started process (PID=194) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:15.582+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:28:15.585+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:15.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:16.318+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:16.352+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:16.352+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:28:16.364+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:16.364+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:28:16.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.813 seconds
+[2025-06-28T23:28:46.873+0000] {processor.py:161} INFO - Started process (PID=208) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:46.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:28:46.880+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:46.879+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:47.406+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:28:47.432+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:47.432+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:28:47.444+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:28:47.444+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:28:47.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.590 seconds
+[2025-06-28T23:29:18.301+0000] {processor.py:161} INFO - Started process (PID=219) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:18.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:29:18.306+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:18.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:18.821+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:18.847+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:18.847+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:29:18.859+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:18.859+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:29:18.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.579 seconds
+[2025-06-28T23:29:49.786+0000] {processor.py:161} INFO - Started process (PID=230) to work on /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:49.788+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/daily_job.py for tasks to queue
+[2025-06-28T23:29:49.791+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:49.790+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:50.299+0000] {processor.py:840} INFO - DAG(s) 'daily_youtube_fetch' retrieved from /opt/airflow/dags/daily_job.py
+[2025-06-28T23:29:50.325+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:50.325+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-06-28T23:29:50.341+0000] {logging_mixin.py:188} INFO - [2025-06-28T23:29:50.341+0000] {dag.py:3954} INFO - Setting next_dagrun for daily_youtube_fetch to 2025-06-28 08:00:00+00:00, run_after=2025-06-29 08:00:00+00:00
+[2025-06-28T23:29:50.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/daily_job.py took 0.576 seconds
